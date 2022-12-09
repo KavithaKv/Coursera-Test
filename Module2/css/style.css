@@ -22,7 +22,7 @@ h3 {
   position: relative;
   text-align: centre;
   left: 60%;
-  width: 40%;
+  width: auto;
   height: auto;
   margin: 0px;
   padding: 0px;
@@ -74,10 +74,7 @@ h3 {
   .col-lg-9,
   .col-lg-10,
   .col-lg-11,
-  .col-lg-12 {
-    float: left;
-    border: 1px solid green;
-  }
+  .col-lg-12 
   .col-lg-1 {
     width: 8.33%;
   }
@@ -129,10 +126,7 @@ h3 {
   .col-md-9,
   .col-md-10,
   .col-md-11,
-  .col-md-12 {
-    float: left;
-    border: 1px solid green;
-  }
+  .col-md-12 
   .col-md-1 {
     width: 8.33%;
   }
@@ -183,10 +177,7 @@ h3 {
   .col-sm-9,
   .col-sm-10,
   .col-sm-11,
-  .col-sm-12 {
-    float: left;
-    border: 1px solid green;
-  }
+  .col-sm-12 
   .col-sm-1 {
     width: 8.33%;
   }
