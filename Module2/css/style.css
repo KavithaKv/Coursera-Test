@@ -36,9 +36,6 @@ h3 {
   padding: 0px;
   margin-top: 0px;
   min-height: auto;
-  margin: 20px;
-  overflow: none;
-  justify-content:space-between;
 }
 
 @media (min-width: 992px) {
