@@ -19,14 +19,14 @@ h3{
   background-color: pink;
   position:relative;
   top:0px;
-  right:0px;
+  left:90%;
   width: 40%;
   height: 30px;
 }
 .section
 { border: 1px solid black;
-  background-color: green;
-  width: 300px;
+  background-color: orange;
+  width: 100%;
   height: 200px;
   margin-right: 10px;
   margin-left: 10px;
