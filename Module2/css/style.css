@@ -51,6 +51,7 @@ h3 {
 .section {
   margin-top: 20px;
   margin-right:20px;
+justify-content:space-between;
 }
 .row {
   width: 100%;
