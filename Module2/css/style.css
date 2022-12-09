@@ -55,7 +55,7 @@ h3 {
   margin-top: 0px;
 }
 .section {
-  min-width: 30%;
+  width: 100%;
   min-height: auto;
   margin: 20px;
 }
