@@ -6,17 +6,18 @@ h1 {
   margin-bottom: 15px;
 }
 p {
-  border: 1px solid black;
-  background-color: #36454F;
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
   font-family: Helvetica;
   color: white;
 }
 
-
+.section
+{ border: 1px solid black;
+  background-color: #36454F;
+  width: 100%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+}
 .row {
   width: 100%;
 }
