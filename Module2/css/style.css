@@ -57,7 +57,7 @@ h3 {
 .section {
   min-height: auto;
   margin: 20px;
-  width: auto;
+  min-width: 30%;
   overflow: none;
   justify-content:space-between;
 }
