@@ -29,35 +29,14 @@ h3 {
   margin: 0px;
   padding: 0px;
 }
-
-#section1 {
-  border: 1px solid black;
-  background-color: lightgrey;
-  width: 100%;
-  height: auto;
-  padding: 0px;
-  margin-top: 0px;
-}
-#section2 {
-  border: 1px solid black;
-  background-color: lightgrey;
-  width: 100%;
-  height: auto;
-  padding: 0px;
-  margin-top: 0px;
-}
-#section3 {
-  border: 1px solid black;
-  background-color: lightgrey;
-  width: 100%;
-  height: auto;
-  padding: 0px;
-  margin-top: 0px;
-}
 .section {
+  border: 1px solid black;
+  background-color: lightgrey;
+  width: 100%;
+  padding: 0px;
+  margin-top: 0px;
   min-height: auto;
   margin: 20px;
-  min-width: 30%;
   overflow: none;
   justify-content:space-between;
 }
