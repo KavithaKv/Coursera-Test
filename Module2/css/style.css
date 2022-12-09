@@ -8,11 +8,19 @@ h1 {
 p {
   font-family: Helvetica;
   color: white;
+  float:left;
 }
-
+h3{
+  border: 1px solid black;
+  background-color: pink;
+  width: 30%;
+  height: 30px;
+  margin-right: auto;
+  margin-left: auto;
+}
 .section
 { border: 1px solid black;
-  background-color: #36454F;
+  background-color: green;
   width: 100%;
   height: 150px;
   margin-right: auto;
