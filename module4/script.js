@@ -48,7 +48,7 @@ for (var name in names) {
   // string object's 'toLowerCase' method on the result so we can compare
   // to lower case character 'j' afterwards.
   // Look up these methods on Mozilla Developer Network web site if needed.
-  var firstLetter = name.chartAt().toLowercase();
+  var firstLetter = name.chartAt(0).toLowercase();
 
   // STEP 12:
   // Compare the 'firstLetter' retrieved in STEP 11 to lower case
