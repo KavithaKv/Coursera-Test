@@ -31,3 +31,10 @@ body {
 .navbar-brand p span { /* Star-K */
   vertical-align: middle;
 }
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
