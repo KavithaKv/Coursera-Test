@@ -45,7 +45,7 @@ body {
   /* Header */
   .navbar-brand {
     padding-top: 10px;
-    height: 80px;
+    height: 40px;
   }
   .navbar-brand h1 { /* Restaurant name */
     padding-top: 10px;
