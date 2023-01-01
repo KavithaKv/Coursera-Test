@@ -12,6 +12,7 @@ body {
   background-color:#aeb1b5;
   border: 1px solid black;
   border-radius: 0;
+  margin:0px;
 }
 
 .section {
@@ -24,7 +25,7 @@ body {
   width: 100%;
   height: auto;
   padding: 0px;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 #section2 {
   border: 1px solid black;
@@ -32,7 +33,7 @@ body {
   width: 100%;
   height: auto;
   padding: 0px;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 #section3 {
   border: 1px solid black;
@@ -40,7 +41,7 @@ body {
   width: 100%;
   height: auto;
   padding: 0px;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 .navbar-brand {
   padding: 25px;
@@ -52,9 +53,9 @@ body {
   color:black;
   font-size: 1.5em;
   font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding:5x;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding:10px;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
