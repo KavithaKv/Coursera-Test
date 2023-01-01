@@ -8,12 +8,11 @@ body {
 /** HEADER **/
 #header-nav {
   background-color:#aeb1b5;
+  border: 1px solid black;
   border-radius: 0;
   border: 0;
 }
-.navbar-header{
-  border: 1px solid black;
-}
+
 
 .navbar-brand {
   padding: 25px;
@@ -77,6 +76,7 @@ body {
 .navC {
   border:1px solid black;
   font: “Comic Sans MS”, “Comic Sans”, cursive;
+  background-color:white;
   color:black;
   margin:0px;
   }
