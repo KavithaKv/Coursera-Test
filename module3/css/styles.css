@@ -61,7 +61,6 @@ body {
   margin-top: 10px;
   text-align: center;
   color: black;
-  background-color:lightblue;
   border:2px solid black;
 }
 
@@ -71,3 +70,8 @@ body {
 #nav-list a span {
   font-size: 1.8em;
 }
+.navC {
+  border:1px solid black;
+  font: “Comic Sans MS”, “Comic Sans”, cursive;
+  color:black;
+  }
