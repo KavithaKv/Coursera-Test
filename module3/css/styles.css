@@ -23,17 +23,21 @@ body {
   width: 100%;
   height: auto;
   padding: 0px;
-  margin-top: 0px;
+  margin-top: 5px;
 }
 #section2 {
   border: 1px solid black;
   width: 100%;
   height: auto;
+  padding: 0px;
+  margin-top: 5px;
 }
 #section3 {
   border: 1px solid black;
   width: 100%;
   height: auto;
+  padding: 0px;
+  margin-top: 5px;
 }
 .navbar-brand {
   padding: 25px;
