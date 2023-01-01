@@ -57,3 +57,17 @@ body {
     font-size: 1em;
     margin-right: 5px;
   }
+#nav-list {
+  margin-top: 10px;
+  text-align: center;
+  color: black;
+  background-color:lightblue;
+  border:2px solid black;
+}
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
