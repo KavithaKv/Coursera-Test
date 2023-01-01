@@ -94,8 +94,7 @@ body {
 #nav-list {
   margin-top: 10px;
   text-align: center;
-  color: black;
-  border:2px solid black;
+  
 }
 
 #nav-list a:hover {
@@ -108,10 +107,10 @@ body {
   border:1px solid black;
   font: “Comic Sans MS”, “Comic Sans”, cursive;
   padding: 0;
-	margin: 0;
-	width: 100%;
-	background-color: white;
-	border-bottom: 1px solid black;
-	color: black;
-	display: block;
-  }
+  margin: 0;
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid black;
+  color: black;
+  display: block;
+	}
